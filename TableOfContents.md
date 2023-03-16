@@ -12,10 +12,10 @@
 
 >   [Earthlings](/species/Earthlings.md)
 
+>   [Hypnossards](/species/Hypnossards.md)
+
 >   [Oceanids](/species/Oceanids.md)
 
+>   [Survivors](/species/Survivors.md)
+
 >   [Volcanids](/species/Volcanids.md)
-
->    [Hypnossards](/species/Hypnossards.md)
-
->    [Survivors](/species/Survivors.md)
