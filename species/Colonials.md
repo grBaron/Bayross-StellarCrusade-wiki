@@ -20,9 +20,9 @@
 
 >   The Colonials closely resemble Homo Sapiens, with the exception of a distinctive birthmark shared by all members of their race. They are on average 1.75 meters tall and possess night vision, making them highly adaptable and effective colonizers. However, their bone density is twice as high as any other race, making them heavier and more prone to being heard due to the noise of their footsteps.
 
-Their bodies are uniquely capable of withstanding implants with greater ease, making them valuable test subjects for research purposes.
+>   Their bodies are uniquely capable of withstanding implants with greater ease, making them valuable test subjects for research purposes.
 
-In terms of appearance, Colonials are very similar to humans, except for their glowing birthmark. They have an orange gene instead of brown, which is common in Homo Sapiens. In Colonial-Earthling hybrids, it's not uncommon for both eye colors to be present, as they don't overrule each other. This results in hybrid eye colors that are a mixture of brown and orange.
+>   In terms of appearance, Colonials are very similar to humans, except for their glowing birthmark. They have an orange gene instead of brown, which is common in Homo Sapiens. In Colonial-Earthling hybrids, it's not uncommon for both eye colors to be present, as they don't overrule each other. This results in hybrid eye colors that are a mixture of brown and orange.
 
 <!--End of the file-->
 ##  [Back to Species Navigation](SpeciesNavigation.md)
