@@ -8,6 +8,6 @@
 
 ##  [Species](species/SpeciesNavigation.md)
 
->   [Earthlings](/species/Earthling.md)
+>   [Earthlings](/species/Earthlings.md)
 
 >   [Volcanids](/species/Volcanids.md)
