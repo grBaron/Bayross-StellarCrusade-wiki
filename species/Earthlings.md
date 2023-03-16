@@ -16,7 +16,9 @@
 >>2.    +20% chance of getting sick
 
 ### General info / description
->   lorem ipsum
+>   Earthlings are generally around 1.8 meters in height and possess similar physiology to Homo sapiens, with some notable differences. One of their unique features is their stone-like skin, which is exceptionally durable and can withstand more damage than human skin. However, this also makes them more susceptible to infections and illnesses, as their immune system is weaker.
+
+>   Earthlings have varying skin colors, but certain eye colors have disappeared entirely. Instead, their eyes can glow slightly, and a yellow eye gene has replaced the blue eye gene. The only time their eyes turn blue is when they experience a state of pure rage, which is similar to a berserker rage but less intense. This state gives them more courage in combat.
 
 <!--End of the file-->
 ##  [Back to Species Navigation](SpeciesNavigation.md)
