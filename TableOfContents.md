@@ -15,3 +15,5 @@
 >   [Oceanids](/species/Oceanids.md)
 
 >   [Volcanids](/species/Volcanids.md)
+
+>   [Hypnossards](/species/Hypnossards.md)
