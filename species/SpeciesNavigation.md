@@ -1,6 +1,10 @@
 #   Species Navigation
 
+>   [Colonials](Colonials.md)
+
 >   [Earthlings](Earthlings.md)
+
+>   [Oceanids](Oceanids.md)
 
 >   [Volcanids](Volcanids.md)
 

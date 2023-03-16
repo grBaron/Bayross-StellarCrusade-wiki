@@ -8,6 +8,10 @@
 
 ##  [Species](species/SpeciesNavigation.md)
 
+>   [Colonials](/species/Colonials.md)
+
 >   [Earthlings](/species/Earthlings.md)
+
+>   [Oceanids](/species/Oceanids.md)
 
 >   [Volcanids](/species/Volcanids.md)
