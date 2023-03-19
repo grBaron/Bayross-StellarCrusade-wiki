@@ -14,7 +14,7 @@
 
 >   Official language:
 
->   Capital:
+>   Capital:    Planet ->   Planet Capital
 
 >   Demonym:
 

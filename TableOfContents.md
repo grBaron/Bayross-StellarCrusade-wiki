@@ -4,7 +4,19 @@
 
 ##  [Nations](nations/NationNavigation.md)
 
->   [Template](/nations/Template.md)
+>   [Earth United Kingdom](/nations/EarthUnitedKingdom.md)
+
+>   [Eldoenni Empire](/nations/EldoenniEmpire.md)
+
+>   [Havritic Empire](/nations/HavriticEmpire.md)
+
+>   [Naseryc Khaganate](/nations/NaserycKhaganate.md)
+
+>   [Odipir Consortium](/nations/OdipirConsortium.md)
+
+>   [Survivor's Space](/nations/SurvivorsSpace.md)
+
+>   [Teressa Prime Dominion](/nations/TeressaPrimeDominion.md)
 
 ##  [Species](species/SpeciesNavigation.md)
 
