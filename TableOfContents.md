@@ -4,7 +4,7 @@
 
 ##  [Nations](nations/NationNavigation.md)
 
->   Under construction
+>   [Template](/nations/Template.md)
 
 ##  [Species](species/SpeciesNavigation.md)
 
