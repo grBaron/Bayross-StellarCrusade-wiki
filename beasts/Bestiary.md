@@ -1,6 +1,6 @@
 #   Bestiary
 
->   [Berzerker](Berzerker.md)
+>   [Berzerker](MinorBerzerker.md)
 
 >   [TimelessSoldier](TimelessSoldier.md)
 
