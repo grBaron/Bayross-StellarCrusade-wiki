@@ -2,6 +2,12 @@
 
 >   Here's the central navigation point for everything related to the Stellar Crusade
 
+##  [Bestiary](beasts/Bestiary.md)
+
+>   [Berzerker](/beasts/Berzerker.md)
+
+>   [Timeless Soldier](/beasts/TimelessSoldier.md)
+
 ##  [Nations](nations/NationNavigation.md)
 
 >   [Earth United Kingdom](/nations/EarthUnitedKingdom.md)
