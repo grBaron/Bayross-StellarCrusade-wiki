@@ -4,7 +4,7 @@
 
 ##  [Bestiary](beasts/Bestiary.md)
 
->   [Berzerker](/beasts/Berzerker.md)
+>   [Berzerker](/beasts/MinorBerzerker.md)
 
 >   [Timeless Soldier](/beasts/TimelessSoldier.md)
 
