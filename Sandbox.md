@@ -55,8 +55,9 @@ Comment 2
 ---
 
 ##  Tables
+<!--Always 3 spaces or "-" to the next "|"-->
 
-| Text   | Goes   | Here   | Again   |<!--Always 3 spaces to the next "|"-->
+| Text   | Goes   | Here   | Again   |
 |---|---:|:---|:---|
 |Is there anything    | Special   | That you   | Can see?   |
 | These are   | <ul><li>Just</li><li>a few</li><li>nice things</li></ul>   | That you can do   | In Markdown   |<!--between the ul you put the list, between the ul parts the list items-->
