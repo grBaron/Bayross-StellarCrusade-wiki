@@ -3,9 +3,9 @@ Minor Berzerker
 ##  Stats
 
 >   HP:  20     -
-
+>
 >   PsychicPoints: 0 -
-
+>
 >   Speed:  6 square on foot | 2 square in water     -
 
 
@@ -17,7 +17,7 @@ Minor Berzerker
 ##  Strenght / Weakness
 
 >   Immuned to: Plasma
-
+>
 >   Weak against: Frost
 
 ##  Subversions <!--to avoid cluttering the ToC, here's the link to subversions-->

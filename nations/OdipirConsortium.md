@@ -3,19 +3,19 @@
 ### General info
 
 >   Name:   Odipir Consortium
-
+>
 >   National motto: Bring the riches from the stars
-
+>
 >   National Holiday:   -
-
+>
 >   Regent: Wrathian "Eye-Flower"  
-
+>
 >   Government type:    Megacorporation
-
+>
 >   Official language:  Odipir
-
+>
 >   Capital:    Chenolla    ->  unknown
-
+>
 >   Demonym:    Odipir
 
 >   Population: 40 - 68 Billion

@@ -2,15 +2,15 @@
 
 ### Stats
 >   Base HP:    0
-
+>
 >   Base PP:    0
-
+>
 >   Height:     0.00m
 
 >   Pros:
 >>1.    is
 >>2.    good
-
+>
 >   Cons:
 >>1.    kinda
 >>2.    bad

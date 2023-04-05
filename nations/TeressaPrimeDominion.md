@@ -3,19 +3,19 @@
 ### General info
 
 >   Name:   Teressa Prime Dominion
-
+>
 >   National motto: Volcania will bring us closer to battle
-
+>
 >   National Holiday:   March 1st
-
+>
 >   Regent: Currently none
-
+>
 >   Government type:    Absolute monarchy
-
+>
 >   Official language:  Augustas
-
+>
 >   Capital:    Teressa Prime ->    Caldeira
-
+>
 >   Demonym:    Volcanid
 
 >   Population: 105.2 Billion

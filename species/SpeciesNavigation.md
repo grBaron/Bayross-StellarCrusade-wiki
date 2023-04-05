@@ -1,15 +1,15 @@
 #   Species Navigation
 
 >   [Colonials](Colonials.md)
-
+>
 >   [Earthlings](Earthlings.md)
-
+>
 >   [Hypnossards](Hypnossards.md)
-
+>
 >   [Oceanids](Oceanids.md)
-
+>
 >   [Survivors](Survivors.md)
-
+>
 >   [Volcanids](Volcanids.md)
 
 ---

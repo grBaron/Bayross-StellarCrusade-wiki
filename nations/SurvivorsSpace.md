@@ -3,19 +3,19 @@
 ### General info
 
 >   Name:   Survivor's Space
-
+>
 >   National motto: Hope is always present
-
+>
 >   National Holiday:   December 5th [Day of creation]
-
+>
 >   Regent: ???
-
+>
 >   Government type:    Hive-Mind (?)
-
+>
 >   Official language:  None
-
+>
 >   Capital:    Hope    ->  Hope-1
-
+>
 >   Demonym:    Survivors (?)
 
 >   Population: ?

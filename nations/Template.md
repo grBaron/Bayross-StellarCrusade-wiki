@@ -3,19 +3,19 @@
 ### General info
 
 >   Name:   Enter name
-
+>
 >   National motto:
-
+>
 >   National Holiday:
-
+>
 >   Regent:
-
+>
 >   Government type:
-
+>
 >   Official language:
-
+>
 >   Capital:    Planet ->   Planet Capital
-
+>
 >   Demonym:
 
 >   Population:

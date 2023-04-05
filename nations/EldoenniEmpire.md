@@ -3,19 +3,19 @@
 ### General info
 
 >   Name:   Eldoenni Empire
-
+>
 >   National motto: Faith will lead us to victory
-
+>
 >   National Holiday:   July 27th [Independence day]
-
+>
 >   Regent: Edloa Tonrim [Empress]
-
+>
 >   Government type:    Monarchy
-
+>
 >   Official language:  Eldoenni
-
+>
 >   Capital:    Eldoenne Prime ->   Loreng
-
+>
 >   Demonym:    Eldoenni
 
 >   Population: 130.7 Billion

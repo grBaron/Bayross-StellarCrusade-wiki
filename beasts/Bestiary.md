@@ -1,7 +1,7 @@
 #   Bestiary
 
 >   [Berzerker](MinorBerzerker.md)
-
+>
 >   [TimelessSoldier](TimelessSoldier.md)
 
 ---
