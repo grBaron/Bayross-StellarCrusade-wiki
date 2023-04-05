@@ -55,7 +55,9 @@ Comment 2
 ---
 
 ##  Tables
-<!--Always 3 spaces or "-" to the next "|"-->
+<!--Always 3 spaces or "-" to the next "|"
+":---" leads to right aligned, ":---" is standard and left aligned, ":---:" means the text will be shown centered
+-->
 
 | Text   | Goes   | Here   | Again   |
 |---|---:|:---|:---|
