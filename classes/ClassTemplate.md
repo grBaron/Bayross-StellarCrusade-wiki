@@ -1,5 +1,9 @@
 #   Class name
 
+|Starting gift   |Weapon mastery   |Armor mastery   |Initiative   |
+|---|---|---|---|
+|<ul><li>Health: +X</li><li>Energy / Psych: +X</li><li>Barrier: +X</li></ul>   |X point of mastery to distribute   |All or just specific armour types   | +X   |
+
 |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|
 |   |   |   |Class Name   |   |   |
