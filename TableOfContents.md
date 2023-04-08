@@ -2,6 +2,12 @@
 
 >   Here's the central navigation point for everything related to the Stellar Crusade
 
+##  Categories
+
+>   [Bestiary](#bestiary)
+>   [Nations](#nations)
+>   [Species](#species)
+
 ##  [Bestiary](beasts/Bestiary.md)
 
 >   [Berzerker](/beasts/MinorBerzerker.md)
