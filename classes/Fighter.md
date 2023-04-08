@@ -6,7 +6,7 @@
 
 |   |   |   |   |   |   |
 |---|:---:|:---:|:---:|:---:|:---:|
-|   |   |   |Fighter   |   |   |
+|   |   |   |**Skill Tree**   |   |   |
 |Level 1   |   |   |**Tradition**<ul><li>+2 natural armour</li></ul>   |   |   |
 |Type   |   |   |Passive   |   |   |
 |Level 5   |   |   |**Fearless and flawless**<ul><li>Immune to states of fear</li><li>If an enemy leaves your area of control, your movement speed is doubled for one turn</li></ul>   |   |   |

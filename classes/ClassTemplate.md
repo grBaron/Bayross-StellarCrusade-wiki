@@ -6,22 +6,22 @@
 
 |   |   |   |   |   |   |
 |---|:---:|:---:|:---:|:---:|:---:|
-|   |   |   |Skill Tree   |   |   |
-|Level 1   |   |   |**Skill 1**<ul><li>Description</li><li>T</li></ul>   |   |   |
-|Type   |   |   |   |   |   |
-|Level 5   |   |   |Level 5 Skill|   |   |
-|Type   |   |   |   |   |   |
-|   |Subclass:   |left tree   |   |Subclass:   |Right tree   |
-|Level 10   |Subclass skill:   |left tree skill   |   |Subclass skill:   | right tree skill   |
+|   |   |   |**Skill Tree**   |   |   |
+|Level 1   |   |   |**Skill 1**<ul><li>Description</li></ul>   |   |   |
+|Type   |   |   |Active   |   |   |
+|Level 5   |   |   |**Level 5 Skill**<ul><li>Description</li></ul>|   |   |
+|Type   |   |   |Passive   |   |   |
+|   |Subclass:   |***left tree***   |   |Subclass:   |***Right tree***   |
+|Level 10   |Subclass skill:   |**Left tree skill**<ul><li>Description</li></ul>   |   |Subclass skill:   |**right tree skill**<ul><li>Description</li></ul>   |
 |Type   |   |Active   |   |   |Passive   |
-|Level 10   |skill 1    |skill 2   |   |skill 3   |skill 4   |
-|Type   |   |   |   |   |   |
-|Level 15   |skill 1    |skill 2   |   |skill 3   |skill 4   |
-|Type   |   |   |   |   |   |
-|Level 20   |skill 1    |skill 2   |   |skill 3   |skill 4   |
-|Type   |   |   |   |   |   |
-|   |   |   |Level 20 skill   |   |   |
-|Type   |   |   |   |   |   |
+|Level 10   |**Skill 1**<ul><li>Description</li></ul>    |**Skill 2**<ul><li>Description</li></ul>   |   |**Skill 3**<ul><li>Description</li></ul>   |**Skill 4**<ul><li>Description</li></ul>   |
+|Type   |Active   |Passive   |   |Active   |Passive   |
+|Level 15   |**Skill 1**<ul><li>Description</li></ul>    |**Skill 2**<ul><li>Description</li></ul>  |   |**Skill 3**<ul><li>Description</li></ul>   |**Skill 4**<ul><li>Description</li></ul>   |
+|Type   |Active   |Passive   |   |Active   |Passive   |
+|Level 20   |**Skill 1**<ul><li>Description</li></ul>    |**Skill 2**<ul><li>Description</li></ul>   |   |**Skill 3**<ul><li>Description</li></ul>   |**Skill 4**<ul><li>Description</li></ul>   |
+|Type   |Active   |Passive   |   |Active   |Passive   |
+|Level 20   |   |   |**Skill**<ul><li>Description</li></ul>   |   |   |
+|Type   |   |   |Passive   |   |   |
 
 ---
 ##  [Back to Classes Navigation](ClassesNavigation.md)
