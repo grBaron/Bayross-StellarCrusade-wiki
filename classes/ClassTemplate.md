@@ -1,6 +1,6 @@
 #   Class name
 
-|The   |Skill   |Tree   |for   |the   |class   | "Class name"   |
+|   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|
 |   |   |   |Class Name   |   |   |
 |Level 1   |   |   |Base Skill   |   |   |
