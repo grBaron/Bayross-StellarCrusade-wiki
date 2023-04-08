@@ -6,8 +6,8 @@
 
 |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|
-|   |   |   |Class Name   |   |   |
-|Level 1   |   |   |Base Skill   |   |   |
+|   |   |   |Skill Tree   |   |   |
+|Level 1   |   |   |**Skill 1**<ul><li>Description</li><li>T</li></ul>   |   |   |
 |Type   |   |   |   |   |   |
 |Level 5   |   |   |Level 5 Skill|   |   |
 |Type   |   |   |   |   |   |
@@ -24,3 +24,5 @@
 |Type   |   |   |   |   |   |
 
 ---
+##  [Back to Classes Navigation](ClassesNavigation.md)
+##  [Back to Table of Contents](../TableOfContents.md)
