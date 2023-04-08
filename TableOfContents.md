@@ -5,7 +5,9 @@
 ##  Categories
 
 >   [Bestiary](#bestiary)
+>
 >   [Nations](#nations)
+>
 >   [Species](#species)
 
 ##  [Bestiary](beasts/Bestiary.md)
