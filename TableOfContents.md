@@ -6,6 +6,8 @@
 
 >   [Bestiary](#bestiary)
 >
+>   [Classes](#classes)
+>
 >   [Nations](#nations)
 >
 >   [Species](#species)
@@ -15,6 +17,10 @@
 >   [Berzerker](/beasts/MinorBerzerker.md)
 >
 >   [Timeless Soldier](/beasts/TimelessSoldier.md)
+
+##  [Classes](classes/ClassesNavigation.md)
+
+>   [Fighter](/classes/Fighter.md)
 
 ##  [Nations](nations/NationNavigation.md)
 
