@@ -4,8 +4,8 @@
 |---|---|---|---|
 |<ul><li>Health: +X</li><li>Energy / Psych: +X</li><li>Barrier: +X</li></ul>   |X point of mastery to distribute   |All or just specific armour types   | +X   |
 
-|   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |
+|---|:---:|:---:|:---:|:---:|:---:|
 |   |   |   |Skill Tree   |   |   |
 |Level 1   |   |   |**Skill 1**<ul><li>Description</li><li>T</li></ul>   |   |   |
 |Type   |   |   |   |   |   |
