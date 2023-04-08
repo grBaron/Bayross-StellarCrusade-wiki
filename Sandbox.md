@@ -7,7 +7,9 @@
 -   [Comments](#comments)
 -   [Headlines](#headlines)
 -   [Links](#links)
+-   [Lists](#lists)
 -   [Tables](#tables)
+-   [Text](#text-display)
 
 ---
 ---
@@ -54,6 +56,50 @@ Comment 2
 
 ---
 
+##  Lists
+
+### Ordered List
+<!--Markdown verion-->
+1.  One
+2.  Two
+    1. Indentation
+    2. Indentation
+3.  Three
+<!--Comment: Technically the order of the numbers doesn't matter, only the point does, but is still good practise to do it this way-->
+
+<!--HTML version (to be used when writing in one line)-->
+<ol>
+    <li>One</li>
+    <li>Two</li>
+    <ol>
+        <li>Intendation</li>
+    </ol>
+    <li>Three</li>
+</ol>
+
+<ol><li>One</li><li>Two</li><ol><li>Intendation</li></ol><li>Three</li></ol>
+
+### Unordered List
+<!--Markdown version-->
+--  Item one
+--  Item two
+    --  Intendation
+--  Item three
+
+<!--HTML version, again just so one knows and needs to write in one line-->
+<ul>
+    <li>One</li>
+    <li>two</li>
+    <ul>
+        <li>intendation</ul>
+    </ul>
+    <li>three</ul>
+</ul>
+
+<ul><li>One</li><li>Two</li><ul><li>intendation</li></ul><li>Three</li></ul>
+
+---
+
 ##  Tables
 <!--Always 3 spaces or "-" to the next "|"
 ":---" leads to right aligned, ":---" is standard and left aligned, ":---:" means the text will be shown centered
@@ -66,3 +112,15 @@ Comment 2
 
 ---
 
+##  Text display
+
+**bold text**
+__bold text__
+In**middle**bold <!--Don't use the "_" way in the middle of text-->
+*italics*
+_italics_
+In*middle*italics <!--Don't use the "_" way in the middle of text. Also consider checking if the italicized text is overlapping with the non-italicized text-->
+***italic and bold***
+___italic and bold___
+
+---
