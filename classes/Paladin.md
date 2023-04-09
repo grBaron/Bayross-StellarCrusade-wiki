@@ -19,7 +19,7 @@
 |Type   |Passive   |Passive   |   |Passive(?!?)   |Passive   |
 |Level 20   |**Shield of the weak**<ul><li>Places a full cover</li><li>Each spot after the initial one costs 10 psych points</li</ul>   |**Sword of Justice**<ul><li>25 % of psych points are infused into their weapon, dealing + 10 dmg for every 10 points consumed this way</li><li>Requires concentration (?) check</li><li>Duration: ?</li></ul>   |   |**Nanomachines**<ul><li>25 % of your energy points are infused into your weapon, dealing + 10 dmg for every 10 points sacrificed</li><li>Requires concentration (?) check</li><li>Duration: ?</li></ul>   |**Shield generators**<ul><li>+ 10 armour</li><li>- 10 energy points</li><li>Needs to be refreshed every turn</li></ul>   |
 |Type   |Active(2/combat)   |Active(1/combat)   |   |Active(1/combat)   |Active(2 individual starts/combat)   |
-|Level 20   |   |   |**Deus lo vult**<ul><li>+ 5 * x dmg on next successfull attack</li><li>- 10 energy / psych points on next successfull attack</li></ul>   |   |   |
+|Level 20   |   |   |**Deus lo vult**<ul><li>+ 5 * x dmg on next successfull attack</li><li>- 10 * x energy / psych points on next successfull attack</li></ul>   |   |   |
 |Type   |   |   |Active(1/session)   |   |   |
 
 ---
