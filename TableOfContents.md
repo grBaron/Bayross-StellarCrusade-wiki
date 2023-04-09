@@ -22,6 +22,8 @@
 
 >   [Fighter](/classes/Fighter.md)
 >
+>   [Paladin](/classes/Paladin.md)
+>
 >   [Scientist](/classes/Scientist.md)
 
 ##  [Nations](nations/NationNavigation.md)

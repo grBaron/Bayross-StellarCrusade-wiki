@@ -2,6 +2,8 @@
 
 >   [Fighter](Fighter.md)
 >
+>   [Paladin](Paladin.md)
+>
 >   [Scientist](Scientist.md)
 
 ---
