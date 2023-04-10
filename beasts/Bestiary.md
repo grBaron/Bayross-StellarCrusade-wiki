@@ -2,6 +2,8 @@
 
 >   [Berzerker](MinorBerzerker.md)
 >
+>   [Paldoli](Paldoli.md)
+>
 >   [TimelessSoldier](TimelessSoldier.md)
 
 ---

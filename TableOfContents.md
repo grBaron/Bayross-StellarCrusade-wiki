@@ -16,6 +16,8 @@
 
 >   [Berzerker](/beasts/MinorBerzerker.md)
 >
+>   [Paldoli](/beasts/Paldoli.md)
+>
 >   [Timeless Soldier](/beasts/TimelessSoldier.md)
 
 ##  [Classes](classes/ClassesNavigation.md)

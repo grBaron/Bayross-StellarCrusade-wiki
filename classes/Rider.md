@@ -18,7 +18,7 @@
 |Type   |Passive   |Passive   |   |Passive   |Passive   |
 |Level 15   |**Multistrike**<ul><li>Can attack up to 2 enemies in the same line</li></ul>    |**Flash response**<ul><li>After dodging or parrying, you can immediately counterattack</li></ul>  |   |**Steppe creator**<ul><li>Can destroy 2 squares of complete cover in your area of control</li></ul>   |**Loaded response**<ul><li>If an enemy shoots you and is in range, you can launch a charge to counterattack</li></ul>   |
 |Type   |Passive   |Active(2/combat)   |   |Active(1/combat)   |Active(3/combat)   |
-|Level 20   |**Shock rider**<ul><li>When charging, deal + 10 dmg per enemy hit</li></ul>   |**Top hearts**<ul><li>Allies in your area of control deal + 5 dmg</li></ul>   |   |**Pack leader**<ul><li>Summon two Paldoli to fight on your side</li></ul>   |**At a gallop**<ul><li>Can do 2 actions in a turn</li></ul>   |
+|Level 20   |**Shock rider**<ul><li>When charging, deal + 10 dmg per enemy hit</li></ul>   |**Top hearts**<ul><li>Allies in your area of control deal + 5 dmg</li></ul>   |   |**Pack leader**<ul><li>Summon two [Paldoli](/beasts/Paldoli.md) to fight on your side</li></ul>   |**At a gallop**<ul><li>Can do 2 actions in a turn</li></ul>   |
 |Type   |Passive   |Passive   |   |Active(1/session)   |Active(2/combat)   |
 |Level 20   |   |   |**Crazy speed**<ul><li>You can charge without a mount, with the same range and benefits</li></ul>   |   |   |
 |Type   |   |   |Passive   |   |   |
