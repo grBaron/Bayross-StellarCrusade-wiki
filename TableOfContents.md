@@ -24,6 +24,8 @@
 >
 >   [Paladin](/classes/Paladin.md)
 >
+>   [Rider](/classes/Rider.md)
+>
 >   [Scientist](/classes/Scientist.md)
 
 ##  [Nations](nations/NationNavigation.md)

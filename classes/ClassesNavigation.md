@@ -4,6 +4,8 @@
 >
 >   [Paladin](Paladin.md)
 >
+>   [Rider](Rider.md)
+>
 >   [Scientist](Scientist.md)
 
 ---
