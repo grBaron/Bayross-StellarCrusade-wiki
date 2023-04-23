@@ -30,6 +30,10 @@
 >
 >   [Scientist](/classes/Scientist.md)
 
+##  [General Info](#general-info)
+
+>   [Leveling Up](/general/levelUps.md)
+
 ##  [Nations](nations/NationNavigation.md)
 
 >   [Earth United Kingdom](/nations/EarthUnitedKingdom.md)
