@@ -8,6 +8,8 @@
 >
 >   [Classes](#classes)
 >
+>   [General Info](#general-info)
+>
 >   [Nations](#nations)
 >
 >   [Species](#species)
