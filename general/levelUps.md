@@ -1,10 +1,10 @@
 ## Leveling Up
 
 Per level gain:
-    -   2 class levels
-    -   20 points for skill points
-    -   15 points for HP & EP/PP
-    -   1 capacity (spells) mastery level
+ >   -   2 class levels
+ >   -   20 points for skill points
+ >   -   15 points for HP & EP/PP
+ >   -   1 capacity (spells) mastery level
 
 | Level | XP Required | Level | XP Required | Level | XP Required | Level | XP Required |
 |-------|--------------|-------|--------------|-------|--------------|-------|--------------|
