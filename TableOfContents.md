@@ -39,6 +39,8 @@
 ##  [General Info](#general-info)
 
 >   [Leveling Up](/general/levelUps.md)
+>
+>   [Status Effects](/general/StatusEffects.md)
 
 ##  [Nations](nations/NationNavigation.md)
 
