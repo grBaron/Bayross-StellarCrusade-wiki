@@ -31,6 +31,8 @@
 >   [Rider](/classes/Rider.md)
 >
 >   [Scientist](/classes/Scientist.md)
+>
+>   [Strategist](/classes/Strategist.md)
 
 ##  [General Info](#general-info)
 
