@@ -33,6 +33,8 @@
 >   [Scientist](/classes/Scientist.md)
 >
 >   [Strategist](/classes/Strategist.md)
+>
+>   [Trapper](/classes/Trapper.md)
 
 ##  [General Info](#general-info)
 
