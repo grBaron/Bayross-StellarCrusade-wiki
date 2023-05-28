@@ -26,6 +26,8 @@
 
 >   [Fighter](/classes/Fighter.md)
 >
+>   [Grenadier](/classes/Grenadier.md)
+>
 >   [Paladin](/classes/Paladin.md)
 >
 >   [Rider](/classes/Rider.md)
