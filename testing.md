@@ -1,3 +1,3 @@
 #   fhjio+
 
-![display](test.pdf)
+[display](test.pdf)
