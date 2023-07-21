@@ -1,5 +1,7 @@
 #   Classes Navigation
 
+>   [Archer](Archer.md)
+>
 >   [Fighter](Fighter.md)
 >
 >   [Grenadier](Grenadier.md)

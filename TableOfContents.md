@@ -24,6 +24,8 @@
 
 ##  [Classes](classes/ClassesNavigation.md)
 
+>   [Archer](/classes/Archer.md)
+>
 >   [Fighter](/classes/Fighter.md)
 >
 >   [Grenadier](/classes/Grenadier.md)
