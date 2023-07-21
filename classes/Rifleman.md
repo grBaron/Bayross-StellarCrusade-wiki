@@ -24,5 +24,6 @@
 |Type   |   |   |Active(3/fight)   |   |   |
 
 ---
+##  [To Alternate Rifleman look](/RiflemanAlt.md)
 ##  [Back to Classes Navigation](ClassesNavigation.md)
 ##  [Back to Table of Contents](../TableOfContents.md)
