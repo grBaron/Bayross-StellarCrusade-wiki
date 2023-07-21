@@ -34,6 +34,8 @@
 >
 >   [Rider](/classes/Rider.md)
 >
+>   [Rifleman](/classes/Rifleman.md)
+>
 >   [Scientist](/classes/Scientist.md)
 >
 >   [Strategist](/classes/Strategist.md)

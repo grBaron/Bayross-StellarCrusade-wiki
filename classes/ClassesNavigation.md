@@ -10,6 +10,8 @@
 >
 >   [Rider](Rider.md)
 >
+>   [Rifleman](Rifleman.md)
+>
 >   [Scientist](Scientist.md)
 >
 >   [Strategist](Strategist.md)
