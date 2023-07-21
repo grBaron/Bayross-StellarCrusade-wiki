@@ -20,7 +20,7 @@
 |Type   |Passive   |Active(2/fight)   |   |Active(3/fight)   |Passive   |
 |Level 20   |**Accurate shot**<ul><li>Aiming at a body part increases crit chance by +10%</li></ul>    |**"In my sight"**<ul><li>Unable to get into cover</li><li>+10 dmg for one turn</li></ul>   |   |**Commandos fury**<ul><li>"We're gonna tear them down" becomes permanent</li><li>Only available when this skill was selected previously</li></ul>   |**Charge**<ul><li>You can launch an attacking charge with your bayonet and your rifle at the same time</li></ul>   |
 |Type   |Active(2/fight)   |Active(2/fight)   |   |Passive   |Passive   |
-|Level 20   |   |   |**Anti-material ammo**<ul><li>Bullets can pass through obstacles of up to two tiles in size, without any dmg decrease</li></ul>   |   |   |
+|Level 20   |   |   |**Ultimate shot**<ul><li>Bullets can pass through obstacles of up to two tiles in size, without any dmg decrease</li></ul>   |   |   |
 |Type   |   |   |Active(3/fight)   |   |   |
 
 ---
