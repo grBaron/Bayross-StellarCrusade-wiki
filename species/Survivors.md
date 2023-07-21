@@ -3,7 +3,7 @@
 ### Stats
 >   Base EP (EP count as HP):    40
 >
->   Height:     avg. 1.8m
+>   Height:     avg. 1.8m or 4.5m - 10m
 
 >   Pros:
 >>1.    +3 armor for every implant

@@ -5,7 +5,7 @@
 >
 >   Base PP:    35
 >
->   Height:     0.00m
+>   Height:     1.75m
 
 >   Pros:
 >>1.    negative terrain effects are halved
