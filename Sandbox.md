@@ -6,6 +6,7 @@
 -   [Blockquotes](#blockquotes)
 -   [Comments](#comments)
 -   [Headlines](#headlines)
+-   [Images](#images)
 -   [Links](#links)
 -   [Lists](#lists)
 -   [Tables](#tables)
@@ -44,6 +45,15 @@ Comment 2
 ##  Smaller headline
 ### Even smaller headline
 ####    Even more smaller headline
+
+---
+
+##  Images
+
+![image1](pictures/cocunutJPG.png)
+
+<!-- ![imageBack](../pictures/cocunutJPG.png)-->
+<!-- The backslash here would usually mean that you are going one layer higher, meaning that if your file is in A/B/C/file.md , you can a picture in A/B/D/picture.png-->
 
 ---
 
