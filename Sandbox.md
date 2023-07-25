@@ -50,13 +50,10 @@ Comment 2
 
 ##  Images
 
-[image1](/pictures/cocunutJPG.png)
+![image1](pictures/cocunutJPG.png)
 
-![image2](pictures/cocunutJPG.png)
-
-![image3](/pictures/cocunutJPG.png)
-
-[image4](pictures/cocunutJPG.png)
+<!-- ![imageBack](../pictures/cocunutJPG.png)-->
+<!-- The backslash here would usually mean that you are going one layer higher, meaning that if your file is in A/B/C/file.md , you can a picture in A/B/D/picture.png-->
 
 ---
 
