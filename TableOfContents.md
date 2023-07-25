@@ -10,7 +10,11 @@
 >
 >   [General Info](#general-info)
 >
+>   [History](#history)
+>
 >   [Nations](#nations)
+>
+>   [Persons of note](#persons-of-note)
 >
 >   [Species](#species)
 
@@ -50,6 +54,12 @@
 >
 >   [Status Effects](/general/StatusEffects.md)
 
+##  [History](history/MainTimeline.md)
+
+>   [Eldoenni War Of Independence / Psychic War](history/EldoenniIndependenceWar.md)
+>
+>   [Vengeance War](history/VengeanceWar.md)
+
 ##  [Nations](nations/NationNavigation.md)
 
 >   [Earth United Kingdom](/nations/EarthUnitedKingdom.md)
@@ -65,6 +75,14 @@
 >   [Survivor's Space](/nations/SurvivorsSpace.md)
 >
 >   [Teressa Prime Dominion](/nations/TeressaPrimeDominion.md)
+
+##  [Persons of Note](#persons-of-note)
+
+>   [Eloa Tonrim I](personsOfNote/EloaTonrim.md)
+>
+>   [Gavrilo Haas](personsOfNote/GavriloHaas.md)
+>
+>   [Octave Derend I](personsOfNote/OctaveDerendI.md)
 
 ##  [Species](species/SpeciesNavigation.md)
 
