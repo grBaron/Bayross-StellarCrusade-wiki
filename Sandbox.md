@@ -6,6 +6,7 @@
 -   [Blockquotes](#blockquotes)
 -   [Comments](#comments)
 -   [Headlines](#headlines)
+-   [Images](#images)
 -   [Links](#links)
 -   [Lists](#lists)
 -   [Tables](#tables)
@@ -44,6 +45,18 @@ Comment 2
 ##  Smaller headline
 ### Even smaller headline
 ####    Even more smaller headline
+
+---
+
+##  Images
+
+[image1](/pictures/cocunutJPG.png)
+
+![image2](pictures/cocunutJPG.png)
+
+![image3](/pictures/cocunutJPG.png)
+
+[image4](pictures/cocunutJPG.png)
 
 ---
 
