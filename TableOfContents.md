@@ -26,6 +26,8 @@
 
 >   [Archer](/classes/Archer.md)
 >
+>   [Engineer](/classes/Engineer.md)
+>
 >   [Fighter](/classes/Fighter.md)
 >
 >   [Grenadier](/classes/Grenadier.md)

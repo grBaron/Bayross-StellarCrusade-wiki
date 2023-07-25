@@ -2,6 +2,8 @@
 
 >   [Archer](Archer.md)
 >
+>   [Engineer](Engineer.md)
+>
 >   [Fighter](Fighter.md)
 >
 >   [Grenadier](Grenadier.md)
