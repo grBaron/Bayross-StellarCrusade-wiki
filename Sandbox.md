@@ -125,12 +125,19 @@ Comment 2
 ##  Text display
 
 **bold text**
+
 __bold text__
+
 In**middle**bold <!--Don't use the "_" way in the middle of text-->
+
 *italics*
+
 _italics_
+
 In*middle*italics <!--Don't use the "_" way in the middle of text. Also consider checking if the italicized text is overlapping with the non-italicized text-->
+
 ***italic and bold***
+
 ___italic and bold___
 
 ---
